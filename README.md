@@ -16,7 +16,7 @@
 
 **Dependency Injection (Bağımlılık Enjeksiyonu):** Bu desen, bir sınıfın dış bağımlılıklarını sınıfın kendisi tarafından oluşturmak yerine dışarıdan almasını sağlar. Bu, sınıflar arasındaki sıkı bağımlılıkları azaltır ve test edilebilirliği artırır.
 
-**Facade (Yüz): **Bu desen, karmaşık bir alt sistemi daha basit bir arabirime sarmak için kullanılır, böylece istemci kodu daha az karmaşık hale gelir.
+**Facade (Yüz):** Bu desen, karmaşık bir alt sistemi daha basit bir arabirime sarmak için kullanılır, böylece istemci kodu daha az karmaşık hale gelir.
 
 **Factory (Fabrika):** Bu desen, nesnelerin oluşturulmasını yönetir ve genellikle alt sınıfların nesneleri oluşturmak için kullanılır.
 
@@ -30,7 +30,7 @@
 
 **Observer (Gözlemci):** Bu desen, bir nesnenin durumu değiştiğinde bağımlı olan diğer nesnelerin otomatik olarak güncellenmesini sağlar.
 
-**Prototype (Prototip): **Bu desen, bir nesnenin kopyasını oluşturmayı sağlar, bu sayede orijinal nesne klonlanmış olur ve yeni bir nesne oluşturulur.
+**Prototype (Prototip):** Bu desen, bir nesnenin kopyasını oluşturmayı sağlar, bu sayede orijinal nesne klonlanmış olur ve yeni bir nesne oluşturulur.
 
 **Proxy (Vekil):** Bu desen, bir nesne üzerindeki erişimi kontrol eden ve gerçek nesnenin davranışını kontrol eden bir aracı nesne sağlar.
 
